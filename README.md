@@ -7,7 +7,7 @@
 A portfolio page with links to the course's projects.
 
 ## Screencast Demo
-TBD <https://youtube.com/...>
+<https://youtu.be/Rgzjt6zglG0>
 
 ## Details for teaching team
 No special instructions.
